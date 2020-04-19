@@ -35,7 +35,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Arcot, Morey, and Wade must ally with other worlds to defend the galaxy from invading foes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In this sequel to &lt;i&gt;The Black Star Passes&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/john-w-campbell/islands-of-space"&gt;Islands of Space&lt;/a&gt;&lt;/i&gt;, the scientists Arcot, Morey, and Wade are visited by an alien race requesting help against invading foes who seek to scour the galaxy of all intelligent life.  The trio and their allies must travel to many other worlds seeking the knowledge necessary to defend themselves and the universe against the invaders.&lt;/p&gt;
+			&lt;p&gt;In this sequel to &lt;i&gt;The Black Star Passes&lt;/i&gt; and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/john-w-campbell/islands-of-space"&gt;Islands of Space&lt;/a&gt;&lt;/i&gt;, the scientists Arcot, Morey, and Wade are visited by an alien race requesting help against invading foes who seek to scour the galaxy of all intelligent life. The trio and their allies must travel to many other worlds seeking the knowledge necessary to defend themselves and the universe against the invaders.&lt;/p&gt;
 			&lt;p&gt;The third and final book in the Arcot, Morey, and Wade trilogy, &lt;i&gt;Invaders from the Infinite&lt;/i&gt; was first published in the Spring-Summer 1932 edition of &lt;i&gt;Amazing Stories Quarterly&lt;/i&gt; and then later published in book form in 1961.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -51,6 +51,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_W._Campbell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n81063251</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Frederic Edwin Church</dc:contributor>
 		<meta property="file-as" refines="#artist">Church, Frederic Edwin</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Frederic_Edwin_Church</meta>
